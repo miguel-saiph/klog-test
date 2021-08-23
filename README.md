@@ -1,6 +1,6 @@
 # Image search app with Next.JS
 
-![screenshot](https://user-images.githubusercontent.com/40894891/130496932-b8c328a0-5da1-479e-957a-b078c7cbf185.PNG)
+![screenshot](https://user-images.githubusercontent.com/40894891/130497831-9b43048a-fce6-4e27-833d-1cde42935b6c.PNG)
 
 The application fetch images from [Unsplash](https://unsplash.com/) api typing in the search input. 
 
